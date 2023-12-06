@@ -10,7 +10,7 @@
 
 |구분|진행상태|단계|분야|과제명|제출 경로|
 |----|----|----|----|----|----|
-|`필수선택1`|:white_large_square:|1. 요구사항 분석|SSAFY 생활|1학기와 2학기의 차이 & SSAFY GIT 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con13/rep01/교육생번호.zip|
+|`필수선택1`|:white_check_mark:|1. 요구사항 분석|SSAFY 생활|1학기와 2학기의 차이 & SSAFY GIT 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con13/rep01/교육생번호.zip|
 |`필수선택2`|:white_large_square:|1. 요구사항 분석|개발 공통|사용자 스토리(User Story) 작성|https://lab.ssafy.com/{교육생NameSpace}/self-project/con12/rep02/교육생번호.zip|
 |`필수선택3`|:white_large_square:|1. 요구사항 분석|분석/설계|명세서의 요구사항 분석하여 시스템 설계하기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con09/rep01/교육생번호.zip|
 |`자유선택`|:white_large_square:|[단계 추가]|[분야 추가]|[프로젝트 추가]||
@@ -30,7 +30,7 @@
 ### 3일차
 |구분|진행상태|단계|분야|과제명|제출 경로|
 |----|----|----|----|----|----|
-|`필수선택7`|:white_large_square:|3. 개발|웹|Create Next App + React + Typescript + next.js로 프론트엔드 프로젝트 토대 쌓기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con11/rep02/교육생번호.zip|
+|`필수선택7`|:white_check_mark:|3. 개발|웹|Create Next App + React + Typescript + next.js로 프론트엔드 프로젝트 토대 쌓기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con11/rep02/교육생번호.zip|
 |`필수선택8`|:white_large_square:|3. 개발|웹|Vue를 이용하여 채팅구현|https://lab.ssafy.com/{교육생NameSpace}/self-project/con05/rep01/교육생번호.zip|
 |`필수선택9`|:white_large_square:|3. 개발|인공지능|Google Colab기반의 Face Recognition 입문 PJT|https://lab.ssafy.com/{교육생NameSpace}/self-project/con10/rep03/교육생번호.zip|
 |`자유선택`|:white_large_square:|[단계 추가]|[분야 추가]|[프로젝트 추가]||
@@ -50,7 +50,7 @@
 ### 5일차
 |구분|진행상태|단계|분야|과제명|제출 경로|
 |----|----|----|----|----|----|
-|`필수선택13`|:white_large_square:|4. 테스트|테스트/유지보수|부하 테스트 도구를 이용한 웹 페이지 성능 측정|https://lab.ssafy.com/{교육생NameSpace}/self-project/con04/rep01/교육생번호.zip|
+|`필수선택13`|:white_check_mark:|4. 테스트|테스트/유지보수|부하 테스트 도구를 이용한 웹 페이지 성능 측정|https://lab.ssafy.com/{교육생NameSpace}/self-project/con04/rep01/교육생번호.zip|
 |`필수선택14`|:white_large_square:|6. 유지보수|DB|MariaDB 백업+복구 입문|https://lab.ssafy.com/{교육생NameSpace}/self-project/con06/rep01/교육생번호.zip|
 |`필수선택15`|:white_large_square:|7. 기타|PMS|JIRA의 활용|https://lab.ssafy.com/{교육생NameSpace}/self-project/con08/rep02/교육생번호.zip|
 |`자유선택`|:white_large_square:|[단계 추가]|[분야 추가]|[프로젝트 추가]||
