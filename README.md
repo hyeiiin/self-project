@@ -1,92 +1,92 @@
-# 10기 계절학기
+# SSAFY 9기 계절학기 자기주도 프로젝트 플랜/정리 템플릿
+자기주도 프로젝트 명세서를 참고하여 학습 및 과제를 진행하고 배운 내용을 정리하기 위한 템플릿
+
+# 일차별 총 2개의 과제 수행 [필수선택 과제 1개, 자유선택 과제 1개 수행]
+과제 수행 후 결과물 업로드 및 Readme.md에 진행상태에 :white_check_mark: 표기 필수
+자유선택 과제는 진행한 과제명과 진행상태에 :white_check_mark: 표기 필수
 
 
+### 1일차
 
-## Getting started
+|구분|진행상태|단계|분야|과제명|제출 경로|
+|----|----|----|----|----|----|
+|`필수선택1`|:white_large_square:|1. 요구사항 분석|SSAFY 생활|1학기와 2학기의 차이 & SSAFY GIT 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con13/rep01/교육생번호.zip|
+|`필수선택2`|:white_large_square:|1. 요구사항 분석|개발 공통|사용자 스토리(User Story) 작성|https://lab.ssafy.com/{교육생NameSpace}/self-project/con12/rep02/교육생번호.zip|
+|`필수선택3`|:white_large_square:|1. 요구사항 분석|분석/설계|명세서의 요구사항 분석하여 시스템 설계하기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con09/rep01/교육생번호.zip|
+|`자유선택`|:white_large_square:|[단계 추가]|[분야 추가]|[프로젝트 추가]||
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+---
+ 
+### 2일차
+|구분|진행상태|단계|분야|과제명|제출 경로|
+|----|----|----|----|----|----|
+|`필수선택4`|:white_large_square:|2. 설계|분석/설계|DB설계, ERD 작성 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con15/rep01/교육생번호.zip|
+|`필수선택5`|:white_large_square:|2. 설계|분석/설계|코딩 컨벤션 적용|https://lab.ssafy.com/{교육생NameSpace}/self-project/con02/rep01/교육생번호.zip|
+|`필수선택6`|:white_large_square:|2. 설계|DB|PostgreSQL 사용해 보기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con01/rep02/교육생번호.zip|
+|`자유선택`|:white_large_square:|[단계 추가]|[분야 추가]|[프로젝트 추가]||
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+---
 
-## Add your files
+### 3일차
+|구분|진행상태|단계|분야|과제명|제출 경로|
+|----|----|----|----|----|----|
+|`필수선택7`|:white_large_square:|3. 개발|웹|Create Next App + React + Typescript + next.js로 프론트엔드 프로젝트 토대 쌓기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con11/rep02/교육생번호.zip|
+|`필수선택8`|:white_large_square:|3. 개발|웹|Vue를 이용하여 채팅구현|https://lab.ssafy.com/{교육생NameSpace}/self-project/con05/rep01/교육생번호.zip|
+|`필수선택9`|:white_large_square:|3. 개발|인공지능|Google Colab기반의 Face Recognition 입문 PJT|https://lab.ssafy.com/{교육생NameSpace}/self-project/con10/rep03/교육생번호.zip|
+|`자유선택`|:white_large_square:|[단계 추가]|[분야 추가]|[프로젝트 추가]||
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+---
 
-```
-cd existing_repo
-git remote add origin https://lab.ssafy.com/s10-study/self-project.git
-git branch -M master
-git push -uf origin master
-```
+### 4일차
+|구분|진행상태|단계|분야|과제명|제출 경로|
+|----|----|----|----|----|----|
+|`필수선택10`|:white_large_square:|3. 개발|모바일|나만의 CustomView만들기 (안드로이드)|https://lab.ssafy.com/{교육생NameSpace}/self-project/con03/rep02/교육생번호.zip|
+|`필수선택11`|:white_large_square:|3. 개발|구현/개발|비동기 프로그래밍|https://lab.ssafy.com/{교육생NameSpace}/self-project/con14/rep01/교육생번호.zip|
+|`필수선택12`|:white_large_square:|3. 개발|개발 공통|스케줄러 활용|https://lab.ssafy.com/{교육생NameSpace}/self-project/con16/rep03/교육생번호.zip|
+|`자유선택`|:white_large_square:|[단계 추가]|[분야 추가]|[프로젝트 추가]||
 
-## Integrate with your tools
+---
 
-- [ ] [Set up project integrations](https://lab.ssafy.com/s10-study/self-project/-/settings/integrations)
+### 5일차
+|구분|진행상태|단계|분야|과제명|제출 경로|
+|----|----|----|----|----|----|
+|`필수선택13`|:white_large_square:|4. 테스트|테스트/유지보수|부하 테스트 도구를 이용한 웹 페이지 성능 측정|https://lab.ssafy.com/{교육생NameSpace}/self-project/con04/rep01/교육생번호.zip|
+|`필수선택14`|:white_large_square:|6. 유지보수|DB|MariaDB 백업+복구 입문|https://lab.ssafy.com/{교육생NameSpace}/self-project/con06/rep01/교육생번호.zip|
+|`필수선택15`|:white_large_square:|7. 기타|PMS|JIRA의 활용|https://lab.ssafy.com/{교육생NameSpace}/self-project/con08/rep02/교육생번호.zip|
+|`자유선택`|:white_large_square:|[단계 추가]|[분야 추가]|[프로젝트 추가]||
 
-## Collaborate with your team
+---
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
 
-## Test and Deploy
+#### 선택 과제 리스트
 
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-
-***
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+|순번|단계|분야|과제명|과제경로|
+|----|----|----|----|----|
+|`자유선택1`|2. 설계|DB|Database 설계 및 SQL 작성|https://lab.ssafy.com/{교육생NameSpace}/self-project/con08/rep01/교육생번호.zip|
+|`자유선택2`|2. 설계|분석/설계|파이선 API 크롤러 구현해보기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con09/rep02/교육생번호.zip|
+|`자유선택3`|3. 개발|IoT|LwM2M 프로토콜 오픈소스 빌드 및 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con21/rep01/교육생번호.zip|
+|`자유선택4`|3. 개발|구현/개발|Mysql Event Scheduler를 이용한 스케쥴러 개발|https://lab.ssafy.com/{교육생NameSpace}/self-project/con01/rep01/교육생번호.zip|
+|`자유선택5`|3. 개발|구현/개발|내 안드로이드 앱에 구글맵 띄우기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con03/rep01/교육생번호.zip|
+|`자유선택6`|3. 개발|Infra|자바스크립트에서 Firebase 활용하기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con05/rep02/교육생번호.zip|
+|`자유선택7`|3. 개발|테스트|API 테스트 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con19/rep01/교육생번호.zip|
+|`자유선택8`|3. 개발|모바일|Google Flutter 기반의 크로스플랫폼 앱개발 입문|https://lab.ssafy.com/{교육생NameSpace}/self-project/con10/rep02/교육생번호.zip|
+|`자유선택9`|3. 개발|인공지능|Google Colab기반의 Generative Adversarial Network 응용PJT|https://lab.ssafy.com/{교육생NameSpace}/self-project/con10/rep01/교육생번호.zip|"
+|`자유선택10`|3. 개발|웹|코딩 테스트 채점 서버 만들기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con11/rep01/교육생번호.zip|
+|`자유선택11`|3. 개발|네트워크|SSAFY 스무고개 with REST|https://lab.ssafy.com/{교육생NameSpace}/self-project/con11/rep03/교육생번호.zip|
+|`자유선택12`|3. 개발|개발 공통|Vue의 데이터 전송 방법|https://lab.ssafy.com/{교육생NameSpace}/self-project/con13/rep02/교육생번호.zip|
+|`자유선택13`|3. 개발|개발 공통|간단한 스네이크 게임을 구현해보기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con20/rep01/교육생번호.zip|
+|`자유선택14`|3. 개발|IoT|MQTT 이해와 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con18/rep01/교육생번호.zip|
+|`자유선택15`|3. 개발|프로그래밍|Collection 활용|https://lab.ssafy.com/{교육생NameSpace}/self-project/con14/rep02/교육생번호.zip|
+|`자유선택16`|3. 개발|텍스트처리|MysqlMaria DB data processing|https://lab.ssafy.com/{교육생NameSpace}/self-project/con15/rep02/교육생번호.zip|
+|`자유선택17`|3. 개발|DB|Mysql 프로시저 만들고 실행하기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con15/rep03/교육생번호.zip|
+|`자유선택18`|3. 개발|구현/개발|멀티스레드 채팅 서버 구현|https://lab.ssafy.com/{교육생NameSpace}/self-project/con16/rep01/교육생번호.zip|
+|`자유선택19`|3. 개발|최적화|웹 어플리케이션 캐시 적용|https://lab.ssafy.com/{교육생NameSpace}/self-project/con16/rep02/교육생번호.zip|
+|`자유선택20`|3. 개발|개발 공통|개발자 도구 이해 및 활용|https://lab.ssafy.com/{교육생NameSpace}/self-project/con19/rep02/교육생번호.zip|
+|`자유선택21`|3. 개발|IoT|아두이노 이해 및 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con21/rep02/교육생번호.zip|
+|`자유선택22`|3. 개발|웹|Node.JS 외부 API 연동실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con06/rep02/교육생번호.zip|
+|`자유선택23`|3. 개발|웹|Websocket 통신 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/con18/rep02/교육생번호.zip|
+|`자유선택24`|3. 개발|유니티|유니티짱을 이용한 캐릭터 이동|https://lab.ssafy.com/{교육생NameSpace}/self-project/con20/rep02/교육생번호.zip|
+|`자유선택25`|4. 테스트|SW공학|1학기 관통 PJT 서비스에 대한 SW 테스트 케이스 제작|https://lab.ssafy.com/{교육생NameSpace}/self-project/con04/rep02/교육생번호.zip|
+|`자유선택26`|6. 유지보수|유지보수|소프트웨어 유지보수|https://lab.ssafy.com/{교육생NameSpace}/self-project/con02/rep02/교육생번호.zip|
+|`자유선택27`|6. 유지보수|테스트/유지보수|유지보수를 위한 로깅(Logging)|https://lab.ssafy.com/{교육생NameSpace}/self-project/con12/rep01/교육생번호.zip|
+|`자유선택28`|7. 기타|웹|CSR vs SSR|https://lab.ssafy.com/{교육생NameSpace}/self-project/con14/rep03/교육생번호.zip|
