@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SSAFY 10기 계절학기 자기주도 프로젝트 플랜/정리 템플릿
 :round_pushpin: 자기주도 프로젝트 명세서를 참고하여 학습 및 과제를 진행하고 배운 내용을 정리하기 위한 템플릿
 
@@ -55,7 +54,6 @@
 |`필수선택6`|:white_large_square:|2. 설계|DB|PostgreSQL 사용해 보기|https://lab.ssafy.com/{교육생NameSpace}/self-project/con01/rep02/교육생번호.zip|
 |`자유선택`|:white_large_square:|[단계 추가]|[분야 추가]|[프로젝트 추가]||
 
->>>>>>> ff440bc3995731129ffac829e0d7dc5216cb3343
 ---
 
 ### 3일차
@@ -72,7 +70,6 @@
 |`필수선택9`|:white_large_square:|3. 개발|인공지능|Google Colab기반의 Face Recognition 입문 PJT|https://lab.ssafy.com/{교육생NameSpace}/self-project/con10/rep03/교육생번호.zip|
 |`자유선택`|:white_large_square:|[단계 추가]|[분야 추가]|[프로젝트 추가]||
 
->>>>>>> ff440bc3995731129ffac829e0d7dc5216cb3343
 ---
 
 ### 4일차
@@ -99,7 +96,6 @@
 |`필수선택15`|:white_large_square:|7. 기타|PMS|JIRA의 활용|https://lab.ssafy.com/{교육생NameSpace}/self-project/con08/rep02/교육생번호.zip|
 |`자유선택`|:white_large_square:|[단계 추가]|[분야 추가]|[프로젝트 추가]||
 
->>>>>>> ff440bc3995731129ffac829e0d7dc5216cb3343
 ---
 
 
@@ -182,4 +178,4 @@
 |`자유선택26`|6. 유지보수|유지보수|소프트웨어 유지보수|https://lab.ssafy.com/{교육생NameSpace}/self-project/con02/rep02/교육생번호.zip|
 |`자유선택27`|6. 유지보수|테스트/유지보수|유지보수를 위한 로깅(Logging)|https://lab.ssafy.com/{교육생NameSpace}/self-project/con12/rep01/교육생번호.zip|
 |`자유선택28`|7. 기타|웹|CSR vs SSR|https://lab.ssafy.com/{교육생NameSpace}/self-project/con14/rep03/교육생번호.zip|
->>>>>>> ff440bc3995731129ffac829e0d7dc5216cb3343
+
