@@ -41,8 +41,8 @@
 |구분|진행상태|단계|분야|과제명|제출 경로|
 |----|----|----|----|----|----|
 |`필수선택10`|:white_large_square:|4. 테스트|SW공학|1학기 관통PJT 서비스에 대한 SW 테스트 케이스 제작|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con01/rep02|
-|`필수선택11`|:white_large_square:|5. 배포|CI/CD|신규 배포|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con17/rep03|
-|`필수선택12`|:white_large_square:|7.기타|보안|신규_DB 보안|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con11/rep03|
+|`필수선택11`|:white_large_square:|5. 배포|CI/CD|AWS EC2 배포 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con17/rep03|
+|`필수선택12`|:white_large_square:|7.기타|보안|MySQL 내장함수를 이용한 Data 암호화|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con11/rep03|
 |`자유선택`|:white_large_square:|[단계 추가]|[분야 추가]|[프로젝트 추가]||
 ---
 
@@ -53,7 +53,7 @@
 |`자유선택1`|1. 요구사항 분석|SSAFY 생활|아이디어 기획하기|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con04/rep03|
 |`자유선택2`|2. 설계|DB|PostgreSQL 사용해 보기|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con11/rep02|
 |`자유선택3`|2. 설계|분석/설계|파이선 API 크롤러 구현해보기|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con13/rep03|
-|`자유선택4`|2.설계|스토리지|신규_web storage 활용|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con09/rep03|
+|`자유선택4`|2.설계|스토리지|web storage 활용|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con09/rep03|
 |`자유선택5`|2.설계|컨테이너|FE개발자도 도커를 써봅시다|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con13/rep01|
 |`자유선택6`|3. 개발|DB|Mysql 프로시저 작성 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con07/rep02|
 |`자유선택7`|3. 개발|infra|Firebase로 로그인기능 5Line 구현하기|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con08/rep02|
