@@ -33,7 +33,7 @@
 |`필수선택7`|:white_check_mark:|3. 개발|네트워크|Java에서 사용하는 통신 인터페이스 실습|https://lab.ssafy.com/haeinsuin/self-project/-/tree/master/con03/rep02|
 |`필수선택8`|:white_large_square:|3. 개발|모바일|Google Flutter 기반의 크로스플랫폼 앱개발 입문|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con02/rep03|
 |`필수선택9`|:white_large_square:|3. 개발|블록체인|블록체인 개발 입문|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con15/rep02|
-|`자유선택14`|:white_large_square:|3. 개발|개발 공통|간단한 스네이크 게임 구현|https://lab.ssafy.com/haeinsuin/self-project/-/tree/master/con18/rep01|
+|`자유선택14`|:white_check_mark:|3. 개발|개발 공통|간단한 스네이크 게임 구현|https://lab.ssafy.com/haeinsuin/self-project/-/tree/master/con18/rep01|
 ---
 
 ### 4일차
