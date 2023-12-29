@@ -23,14 +23,14 @@
 |----|----|----|----|----|----|
 |`필수선택4`|:white_large_square:|2. 설계|DB|Database 설계 및 SQL 작성|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con09/rep01|
 |`필수선택5`|:white_large_square:|2. 설계|분석/설계|DB설계, ERD 작성 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con07/rep01|
-|`필수선택6`|:white_large_square:|2. 설계|분석/설계|코딩 컨벤션 적용|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con12/rep02|
+|`필수선택6`|:white_check_mark:|2. 설계|분석/설계|코딩 컨벤션 적용|https://lab.ssafy.com/haeinsuin/self-project/-/tree/master/con12/rep02|
 |`자유선택`|:white_large_square:|[단계 추가]|[분야 추가]|[프로젝트 추가]||
 ---
 
 ### 3일차
 |구분|진행상태|단계|분야|과제명|제출 경로|
 |----|----|----|----|----|----|
-|`필수선택7`|:white_large_square:|3. 개발|네트워크|Java에서 사용하는 통신 인터페이스 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con03/rep02|
+|`필수선택7`|:white_check_mark:|3. 개발|네트워크|Java에서 사용하는 통신 인터페이스 실습|https://lab.ssafy.com/haeinsuin/self-project/-/tree/master/con03/rep02|
 |`필수선택8`|:white_large_square:|3. 개발|모바일|Google Flutter 기반의 크로스플랫폼 앱개발 입문|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con02/rep03|
 |`필수선택9`|:white_large_square:|3. 개발|블록체인|블록체인 개발 입문|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con15/rep02|
 |`자유선택`|:white_large_square:|[단계 추가]|[분야 추가]|[프로젝트 추가]||
@@ -41,7 +41,7 @@
 |----|----|----|----|----|----|
 |`필수선택10`|:white_large_square:|4. 테스트|SW공학|1학기 관통PJT 서비스에 대한 SW 테스트 케이스 제작|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con01/rep02|
 |`필수선택11`|:white_large_square:|5. 배포|CI/CD|AWS EC2 배포 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con17/rep03|
-|`필수선택12`|:white_large_square:|7.기타|보안|MySQL 내장함수를 이용한 Data 암호화|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con11/rep03|
+|`필수선택12`|:white_check_mark:|7.기타|보안|MySQL 내장함수를 이용한 Data 암호화|https://lab.ssafy.com/haeinsuin/self-project/-/tree/master/con11/rep03|
 |`자유선택`|:white_large_square:|[단계 추가]|[분야 추가]|[프로젝트 추가]||
 ---
 
