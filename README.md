@@ -14,10 +14,9 @@
 |구분|진행상태|단계|분야|과제명|제출 경로|
 |----|----|----|----|----|----|
 |`필수선택1`|:white_large_square:|1. 요구사항 분석|SSAFY 생활|SSAFY GIT 실습|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con20/rep01|
-|`필수선택2`|:white_check_mark:|1. 요구사항 분석|개발 공통|사용자 스토리(User Story) 작성|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con14/rep02|
+|`필수선택2`|:white_check_mark:|1. 요구사항 분석|개발 공통|사용자 스토리(User Story) 작성|https://lab.ssafy.com/haeinsuin/self-project/-/tree/master/con14/rep02|
 |`필수선택3`|:white_large_square:|1. 요구사항 분석|분석/설계|명세서의 요구사항 분석하여 시스템 설계하기|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con13/rep02|
-|`자유선택38`|:white_check_mark:|7. 기타|PMS|JIRA의 활용|https://lab.ssafy.com/{교육생NameSpace}/self-project/-/tree/master/con09/rep02|
----
+|`자유선택1`|:white_large_square:|1. 요구사항 분석|SSAFY 생활|아이디어 기획하기|https://lab.ssafy.com/haeinsuin/self-project/-/tree/master/con04/rep03|---
 
 ### 2일차
 |구분|진행상태|단계|분야|과제명|제출 경로|
